@@ -4,3 +4,4 @@ plotly
 voila
 botocore
 boto3
+xlrd
